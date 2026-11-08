@@ -1,0 +1,8 @@
+# robots.txt — сайт VideoBoost
+# Домен — https://videoboost.duckdns.org (GitHub Pages, репо mvenzego-arch.github.io, ветка main).
+
+User-agent: *
+Allow: /
+Disallow: /tools/
+
+Sitemap: https://videoboost.duckdns.org/sitemap.xml
